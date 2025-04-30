@@ -38,5 +38,5 @@ Des dashboards Power BI complémentaires sont disponibles sur demande ou dans un
 
 ---
 
-**Auteur :** [Ton Nom], Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/ton-profil) | 📬 Me contacter pour échanger sur ce projet !
+**Auteur :** DJIMAFO TIOKOU, Data Analyst  
+🔗 [LinkedIn](www.linkedin.com/in/stephane-djimafo) | 📬 Me contacter pour échanger sur ce projet !
