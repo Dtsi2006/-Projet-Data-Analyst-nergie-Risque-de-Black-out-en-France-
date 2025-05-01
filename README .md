@@ -1,7 +1,8 @@
 
 # ⚡ Analyse Énergétique France (ODRE - 2013 à 2022)
 
-Ce projet vise à analyser les déséquilibres entre consommation et production d’électricité à l’échelle nationale et régionale, en utilisant les jeux de données publics d'ODRE (RTE France).
+Ce projet vise à analyser les déséquilibres entre consommation et production d’électricité à l’échelle nationale et régionale, 
+en utilisant les jeux de données publics d'ODRE (RTE France).
 
 ## 🎯 Objectifs
 - Détecter les risques de blackout
@@ -41,4 +42,4 @@ Vous pouvez consulter le dashboard Power BI exporté en PDF ici :
 ---
 
 **Auteur :** DJIMAFO TIOKOU, Data Analyst  
-🔗 [LinkedIn](www.linkedin.com/in/stephane-djimafo) | 📬 Me contacter pour échanger sur ce projet !
+🔗 [LinkedIn](https://www.linkedin.com/in/stephane-djimafo/) | 📬 Me contacter pour échanger sur ce projet !
