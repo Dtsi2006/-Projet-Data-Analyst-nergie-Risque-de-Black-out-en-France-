@@ -34,7 +34,9 @@ Ce projet vise à analyser les déséquilibres entre consommation et production 
 - `Jeu de données principal.csv` / `secondaire.csv` : fichiers exportables
 
 ## 📈 Dashboards Power BI
-Des dashboards Power BI complémentaires sont disponibles sur demande ou dans une future mise en ligne publique.
+Vous pouvez consulter le dashboard Power BI exporté en PDF ici :
+
+📄 [Télécharger le dashboard Power BI (PDF)](./dashboard-analyse-energie-france.pdf)
 
 ---
 
